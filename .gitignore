@@ -28,3 +28,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+ProjectSettings/GraphicsSettings.asset
+
+ProjectSettings/ProjectSettings.asset
+
+ProjectSettings/ProjectVersion.txt
