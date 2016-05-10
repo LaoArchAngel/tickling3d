@@ -457,7 +457,11 @@ ModelImporter:
     4300010: Asianfemalemhx:High-poly
     4300012: Asianfemalemhx:Bob01
     4300014: Asianfemalemhx:Female_generic
-    7400000: Asianfemalemhx|AsianfemalemhxAction
+    7400000: AllAnimations
+    7400002: Closed
+    7400004: Opening
+    7400006: Open
+    7400008: Closing
     9500000: //RootNode
     13700000: Asianfemalemhx:Bob01
     13700002: Asianfemalemhx:Eyebrow002
@@ -487,7 +491,2367 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AllAnimations
+      takeName: Asianfemalemhx|AsianfemalemhxAction
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Asianfemalemhx
+        weight: 1
+      - path: Asianfemalemhx/root
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L/toe1-2.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L/toe2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L/toe3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L/toe4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L/toe5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R/toe1-2.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R/toe2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R/toe3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R/toe4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R/toe5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L/breast.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R/breast.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L/finger1-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L/finger2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L/finger3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L/finger4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L/finger5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R/finger1-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R/finger2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R/finger3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R/finger4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R/finger5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01/oris01_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L/oris07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R/oris07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04/tongue04_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L/tongue07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R/tongue07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L/tongue06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R/tongue06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L/tongue05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R/tongue05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L/levator05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R/levator05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L/oris03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R/oris03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05/oris05_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L/levator06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R/levator06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L/eye.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L/orbicularis03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L/orbicularis04.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R/eye.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R/orbicularis03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R/orbicularis04.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L/oculi01.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R/oculi01.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L/risorius03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R/risorius03.R_end
+        weight: 1
+      - path: Asianfemalemhx:Bob01
+        weight: 1
+      - path: Asianfemalemhx:Eyebrow002
+        weight: 1
+      - path: Asianfemalemhx:Eyelashes02
+        weight: 1
+      - path: Asianfemalemhx:Female_casualsuit02
+        weight: 1
+      - path: Asianfemalemhx:Female_generic
+        weight: 1
+      - path: Asianfemalemhx:High-poly
+        weight: 1
+      - path: Asianfemalemhx:Teeth_base
+        weight: 1
+      - path: Asianfemalemhx:Tongue01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Closed
+      takeName: Asianfemalemhx|AsianfemalemhxAction
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Asianfemalemhx
+        weight: 1
+      - path: Asianfemalemhx/root
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L/toe1-2.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L/toe2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L/toe3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L/toe4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L/toe5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R/toe1-2.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R/toe2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R/toe3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R/toe4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R/toe5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L/breast.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R/breast.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L/finger1-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L/finger2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L/finger3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L/finger4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L/finger5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R/finger1-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R/finger2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R/finger3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R/finger4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R/finger5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01/oris01_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L/oris07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R/oris07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04/tongue04_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L/tongue07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R/tongue07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L/tongue06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R/tongue06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L/tongue05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R/tongue05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L/levator05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R/levator05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L/oris03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R/oris03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05/oris05_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L/levator06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R/levator06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L/eye.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L/orbicularis03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L/orbicularis04.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R/eye.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R/orbicularis03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R/orbicularis04.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L/oculi01.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R/oculi01.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L/risorius03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R/risorius03.R_end
+        weight: 1
+      - path: Asianfemalemhx:Bob01
+        weight: 1
+      - path: Asianfemalemhx:Eyebrow002
+        weight: 1
+      - path: Asianfemalemhx:Eyelashes02
+        weight: 1
+      - path: Asianfemalemhx:Female_casualsuit02
+        weight: 1
+      - path: Asianfemalemhx:Female_generic
+        weight: 1
+      - path: Asianfemalemhx:High-poly
+        weight: 1
+      - path: Asianfemalemhx:Teeth_base
+        weight: 1
+      - path: Asianfemalemhx:Tongue01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Opening
+      takeName: Asianfemalemhx|AsianfemalemhxAction
+      firstFrame: 11
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Asianfemalemhx
+        weight: 1
+      - path: Asianfemalemhx/root
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L/toe1-2.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L/toe2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L/toe3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L/toe4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L/toe5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R/toe1-2.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R/toe2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R/toe3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R/toe4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R/toe5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L/breast.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R/breast.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L/finger1-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L/finger2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L/finger3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L/finger4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L/finger5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R/finger1-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R/finger2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R/finger3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R/finger4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R/finger5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01/oris01_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L/oris07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R/oris07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04/tongue04_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L/tongue07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R/tongue07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L/tongue06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R/tongue06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L/tongue05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R/tongue05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L/levator05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R/levator05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L/oris03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R/oris03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05/oris05_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L/levator06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R/levator06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L/eye.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L/orbicularis03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L/orbicularis04.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R/eye.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R/orbicularis03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R/orbicularis04.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L/oculi01.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R/oculi01.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L/risorius03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R/risorius03.R_end
+        weight: 1
+      - path: Asianfemalemhx:Bob01
+        weight: 1
+      - path: Asianfemalemhx:Eyebrow002
+        weight: 1
+      - path: Asianfemalemhx:Eyelashes02
+        weight: 1
+      - path: Asianfemalemhx:Female_casualsuit02
+        weight: 1
+      - path: Asianfemalemhx:Female_generic
+        weight: 1
+      - path: Asianfemalemhx:High-poly
+        weight: 1
+      - path: Asianfemalemhx:Teeth_base
+        weight: 1
+      - path: Asianfemalemhx:Tongue01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Open
+      takeName: Asianfemalemhx|AsianfemalemhxAction
+      firstFrame: 20
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Asianfemalemhx
+        weight: 1
+      - path: Asianfemalemhx/root
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L/toe1-2.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L/toe2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L/toe3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L/toe4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L/toe5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R/toe1-2.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R/toe2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R/toe3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R/toe4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R/toe5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L/breast.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R/breast.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L/finger1-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L/finger2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L/finger3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L/finger4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L/finger5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R/finger1-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R/finger2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R/finger3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R/finger4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R/finger5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01/oris01_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L/oris07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R/oris07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04/tongue04_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L/tongue07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R/tongue07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L/tongue06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R/tongue06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L/tongue05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R/tongue05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L/levator05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R/levator05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L/oris03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R/oris03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05/oris05_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L/levator06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R/levator06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L/eye.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L/orbicularis03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L/orbicularis04.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R/eye.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R/orbicularis03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R/orbicularis04.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L/oculi01.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R/oculi01.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L/risorius03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R/risorius03.R_end
+        weight: 1
+      - path: Asianfemalemhx:Bob01
+        weight: 1
+      - path: Asianfemalemhx:Eyebrow002
+        weight: 1
+      - path: Asianfemalemhx:Eyelashes02
+        weight: 1
+      - path: Asianfemalemhx:Female_casualsuit02
+        weight: 1
+      - path: Asianfemalemhx:Female_generic
+        weight: 1
+      - path: Asianfemalemhx:High-poly
+        weight: 1
+      - path: Asianfemalemhx:Teeth_base
+        weight: 1
+      - path: Asianfemalemhx:Tongue01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Closing
+      takeName: Asianfemalemhx|AsianfemalemhxAction
+      firstFrame: 28
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Asianfemalemhx
+        weight: 1
+      - path: Asianfemalemhx/root
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe1-1.L/toe1-2.L/toe1-2.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe2-1.L/toe2-2.L/toe2-3.L/toe2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe3-1.L/toe3-2.L/toe3-3.L/toe3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe4-1.L/toe4-2.L/toe4-3.L/toe4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.L/upperleg01.L/upperleg02.L/lowerleg01.L/lowerleg02.L/foot.L/toe5-1.L/toe5-2.L/toe5-3.L/toe5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe1-1.R/toe1-2.R/toe1-2.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe2-1.R/toe2-2.R/toe2-3.R/toe2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe3-1.R/toe3-2.R/toe3-3.R/toe3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe4-1.R/toe4-2.R/toe4-3.R/toe4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/pelvis.R/upperleg01.R/upperleg02.R/lowerleg01.R/lowerleg02.R/foot.R/toe5-1.R/toe5-2.R/toe5-3.R/toe5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.L/breast.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/breast.R/breast.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/finger1-1.L/finger1-2.L/finger1-3.L/finger1-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal1.L/finger2-1.L/finger2-2.L/finger2-3.L/finger2-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal2.L/finger3-1.L/finger3-2.L/finger3-3.L/finger3-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal3.L/finger4-1.L/finger4-2.L/finger4-3.L/finger4-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.L/shoulder01.L/upperarm01.L/upperarm02.L/lowerarm01.L/lowerarm02.L/wrist.L/metacarpal4.L/finger5-1.L/finger5-2.L/finger5-3.L/finger5-3.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/finger1-1.R/finger1-2.R/finger1-3.R/finger1-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal1.R/finger2-1.R/finger2-2.R/finger2-3.R/finger2-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal2.R/finger3-1.R/finger3-2.R/finger3-3.R/finger3-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal3.R/finger4-1.R/finger4-2.R/finger4-3.R/finger4-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/clavicle.R/shoulder01.R/upperarm01.R/upperarm02.R/lowerarm01.R/lowerarm02.R/wrist.R/metacarpal4.R/finger5-1.R/finger5-2.R/finger5-3.R/finger5-3.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris02/oris01/oris01_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.L/oris07.L/oris07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/special04/oris06.R/oris07.R/oris07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue04/tongue04_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.L/tongue07.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue03/tongue07.R/tongue07.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.L/tongue06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue02/tongue06.R/tongue06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.L/tongue05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/jaw/tongue00/tongue01/tongue05.R/tongue05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.L/levator03.L/levator04.L/levator05.L/levator05.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/levator02.R/levator03.R/levator04.R/levator05.R/levator05.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.L/oris03.L/oris03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris04.R/oris03.R/oris03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special01/oris06/oris05/oris05_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.L/levator06.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special03/levator06.R/levator06.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/eye.L/eye.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis03.L/orbicularis03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.L/special05.L/orbicularis04.L/orbicularis04.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/eye.R/eye.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis03.R/orbicularis03.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/special06.R/special05.R/orbicularis04.R/orbicularis04.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.L/oculi02.L/oculi01.L/oculi01.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis01.R/oculi02.R/oculi01.R/oculi01.R_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.L/risorius02.L/risorius03.L/risorius03.L_end
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R
+        weight: 1
+      - path: Asianfemalemhx/root/spine05/spine04/spine03/spine02/spine01/neck01/neck02/neck03/head/temporalis02.R/risorius02.R/risorius03.R/risorius03.R_end
+        weight: 1
+      - path: Asianfemalemhx:Bob01
+        weight: 1
+      - path: Asianfemalemhx:Eyebrow002
+        weight: 1
+      - path: Asianfemalemhx:Eyelashes02
+        weight: 1
+      - path: Asianfemalemhx:Female_casualsuit02
+        weight: 1
+      - path: Asianfemalemhx:Female_generic
+        weight: 1
+      - path: Asianfemalemhx:High-poly
+        weight: 1
+      - path: Asianfemalemhx:Teeth_base
+        weight: 1
+      - path: Asianfemalemhx:Tongue01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
